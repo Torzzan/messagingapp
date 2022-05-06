@@ -1,4 +1,5 @@
 ## Live Chat Messagging with Django Websockets
+#Hi! This is the first change made by me!
 
 - Python Version: ``3.8.10``
 
